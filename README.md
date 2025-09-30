@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Athanasios Exarchou
 
-🎓 Undergraduate student at **Harokopio University of Athens – Dept. of Informatics and Telematics**
-💻 Passionate about **software development, automation, and DevOps tools**
-🌱 Currently learning **front-end & back-end technologies, automation frameworks, and cloud tools**
+🎓 Undergraduate student at **Harokopio University of Athens – Dept. of Informatics and Telematics**  
+💻 Passionate about **software development, automation, and DevOps tools**  
+🌱 Currently learning **front-end & back-end technologies, automation frameworks, and cloud tools**  
 📬 Reach me at **athosexarhou@gmail.com**
 
 ## 🌐 Connect with Me
